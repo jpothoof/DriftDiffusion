@@ -22,4 +22,4 @@ There are two main functions included, ``dd_charge`` and ``dd_relax``. Both of t
 - k_rec: Recombination term, defaulted to 0.
 
 ### Units for inputs
-Pini and Nini should both be inputted in units of $m^{-3}$
+Pini and Nini should both be inputted in units of m<sup>-3</sup>
