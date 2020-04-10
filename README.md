@@ -24,4 +24,4 @@ There are two main functions included, ``dd_charge`` and ``dd_relax``. Both of t
 ### Units for inputs
 length should be inputted in units of m
 Pini and Nini should both be inputted in units of m<sup>-3</sup>
-mu_p and mu_n should both be inputted in units of m<sup>2</sup>/V$\cdot$s
+mu_p and mu_n should both be inputted in units of m<sup>2</sup>/$V \cdot 2$
